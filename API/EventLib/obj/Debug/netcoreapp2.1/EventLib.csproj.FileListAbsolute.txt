@@ -1,0 +1,11 @@
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\bin\Debug\netcoreapp2.1\EventLib.deps.json
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\bin\Debug\netcoreapp2.1\EventLib.runtimeconfig.json
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\bin\Debug\netcoreapp2.1\EventLib.runtimeconfig.dev.json
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\bin\Debug\netcoreapp2.1\EventLib.dll
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\bin\Debug\netcoreapp2.1\EventLib.pdb
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.csproj.CoreCompileInputs.cache
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.AssemblyInfoInputs.cache
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.AssemblyInfo.cs
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.dll
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.pdb
+C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\bin\Debug\netcoreapp2.1\EventManagement.deps.json
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\bin\Debug\netcoreapp2.1\EventManagement.runtimeconfig.json
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\bin\Debug\netcoreapp2.1\EventManagement.runtimeconfig.dev.json
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\bin\Debug\netcoreapp2.1\EventManagement.dll
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\bin\Debug\netcoreapp2.1\EventManagement.pdb
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\bin\Debug\netcoreapp2.1\EventLib.dll
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\bin\Debug\netcoreapp2.1\EventLib.pdb
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.csprojAssemblyReference.cache
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.csproj.CoreCompileInputs.cache
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.RazorAssemblyInfo.cache
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.RazorAssemblyInfo.cs
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.AssemblyInfoInputs.cache
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.AssemblyInfo.cs
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.RazorTargetAssemblyInfo.cache
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.csproj.CopyComplete
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.dll
+C:\Users\jkunduma\Desktop\EventManagement\EventManagement\obj\Debug\netcoreapp2.1\EventManagement.pdb
