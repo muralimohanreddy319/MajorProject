@@ -6,7 +6,7 @@ using System.Text;
 
 namespace EventLib
 {
-    public class Event
+    public class Events
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -15,7 +15,7 @@ namespace EventLib
         public virtual string EventDesc { get; set; }
         public virtual DateTime EventStartDate { get; set; }
         public virtual DateTime EventEndDate { get; set; }
-        public virtual bool Status { get; set; }
-        public virtual bool Type { get; set; }
+        
+        public virtual int Type { get; set; }
     }
 }

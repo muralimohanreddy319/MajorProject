@@ -11,7 +11,7 @@ namespace EventManagement.Models
     public class EventDb:DbContext
     {
         public DbSet<Employee> Employees { get; set; }
-        public DbSet<Event> Events { get; set; }
+        public DbSet<Events> Events { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Meeting> Meetings { get; set; }
         public DbSet<MeetingParticipant> MeetingParticipants { get; set; }
@@ -28,7 +28,7 @@ namespace EventManagement.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Employee>().ToTable("Employee");
-            modelBuilder.Entity<Event>().ToTable("Event");
+            modelBuilder.Entity<Events>().ToTable("Event");
             modelBuilder.Entity<Department>().ToTable("Department");
             modelBuilder.Entity<Meeting>().ToTable("Meeting");
             modelBuilder.Entity<MeetingParticipant>().ToTable("MeetingParticipant");
@@ -43,8 +43,8 @@ namespace EventManagement.Models
             modelBuilder.Entity<Employee>().HasIndex(a => a.Eid).IsUnique();
             modelBuilder.Entity<Employee>().Property(a => a.Eid).ValueGeneratedOnAdd();
 
-            modelBuilder.Entity<Event>().HasIndex(b => b.EventId).IsUnique();
-            modelBuilder.Entity<Event>().Property(b => b.EventId).ValueGeneratedOnAdd();
+            modelBuilder.Entity<Events>().HasIndex(b => b.EventId).IsUnique();
+            modelBuilder.Entity<Events>().Property(b => b.EventId).ValueGeneratedOnAdd();
 
             modelBuilder.Entity<Meeting>().HasIndex(c => c.MId).IsUnique();
             modelBuilder.Entity<Meeting>().Property(c => c.MId).ValueGeneratedOnAdd();

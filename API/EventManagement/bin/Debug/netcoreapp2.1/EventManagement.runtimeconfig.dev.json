@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\jkunduma\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jkunduma\\.nuget\\packages",
+      "C:\\Users\\jvangam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jvangam\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

@@ -9,3 +9,14 @@ C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\Event
 C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.dll
 C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.pdb
 C:\Users\jkunduma\Desktop\EventManagement\EventLib\obj\Debug\netcoreapp2.1\EventLib.csprojAssemblyReference.cache
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\bin\Debug\netcoreapp2.1\EventLib.deps.json
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\bin\Debug\netcoreapp2.1\EventLib.runtimeconfig.json
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\bin\Debug\netcoreapp2.1\EventLib.runtimeconfig.dev.json
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\bin\Debug\netcoreapp2.1\EventLib.dll
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\bin\Debug\netcoreapp2.1\EventLib.pdb
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\obj\Debug\netcoreapp2.1\EventLib.csprojAssemblyReference.cache
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\obj\Debug\netcoreapp2.1\EventLib.csproj.CoreCompileInputs.cache
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\obj\Debug\netcoreapp2.1\EventLib.AssemblyInfoInputs.cache
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\obj\Debug\netcoreapp2.1\EventLib.AssemblyInfo.cs
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\obj\Debug\netcoreapp2.1\EventLib.dll
+C:\Users\jvangam\Documents\MajorProject2\MajorProject\API\EventLib\obj\Debug\netcoreapp2.1\EventLib.pdb
